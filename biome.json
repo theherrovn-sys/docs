@@ -17,6 +17,8 @@
       "cosmos-export",
       "dist",
       "package.json",
+      ".docusaurus",
+      "build",
       "!./codetestingplayground"
     ]
   },
